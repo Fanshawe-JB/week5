@@ -1,0 +1,40 @@
+body {
+  /* background-color: chartreuse; */
+}
+
+/* html selectors */
+h1 {
+  color: #c00;
+  font-size: 36px;
+}
+
+p {
+  color: #060;
+  text-align: right;
+}
+
+/* ID selector */
+#promo {
+  background-color: #999;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Class Selector */
+.jEntry {
+  background-color: #999;
+}
+
+/* Grouping Selectors */
+article h2,
+article p {
+  text-align: center;
+}
+
+/* Dec Selector */
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
